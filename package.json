@@ -38,7 +38,6 @@
     "react-dom": "16.8.4",
     "react-native": "0.61.2",
     "reactxp": "^2.0.0-rc.1",
-    "reactxp-imagesvg": "^2.0.0-rc.1",
     "reactxp-navigation": "^2.0.0-rc.1"
   }
 }

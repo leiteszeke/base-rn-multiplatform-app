@@ -1,7 +1,5 @@
 package com.rxphelloworld;
 
-import com.horcrux.svg.SvgPackage;
-
 import android.app.Application;
 
 import com.facebook.react.ReactApplication;
@@ -24,8 +22,7 @@ public class MainApplication extends Application implements ReactApplication {
     @Override
     protected List<ReactPackage> getPackages() {
       return Arrays.<ReactPackage>asList(
-          new MainReactPackage(),
-          new SvgPackage()
+          new MainReactPackage()
       );
     }
 

@@ -5829,11 +5829,6 @@ react-is@^16.8.1, react-is@^16.8.4:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.10.2.tgz#984120fd4d16800e9a738208ab1fba422d23b5ab"
   integrity sha512-INBT1QEgtcCCgvccr5/86CfD71fw9EPmDxgiJX4I2Ddr6ZsV6iFXsuby+qWJPtmNuMY0zByTsG4468P7nHuNWA==
 
-react-native-svg@^9.5.1:
-  version "9.11.1"
-  resolved "https://registry.yarnpkg.com/react-native-svg/-/react-native-svg-9.11.1.tgz#b1ccf48de413ff8c4f476f202aaa3893f4c8b59a"
-  integrity sha512-BmNCM81SSzhj1+N5rYiy7sxrkmybgiT8Cu8yVRB7zVoWze/i1lbCWJah+Gk0OHHwR35ZA31oVKf5jtO4G1n94Q==
-
 react-native@0.61.2:
   version "0.61.2"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.61.2.tgz#987b91b063557f8ebec803fdfea2044a24bdbe4d"
@@ -5903,13 +5898,6 @@ reactxp-experimental-navigation@1.0.14:
   version "1.0.14"
   resolved "https://registry.yarnpkg.com/reactxp-experimental-navigation/-/reactxp-experimental-navigation-1.0.14.tgz#65810f02d617ef1a9d1b99b0ab21803e6fb43e59"
   integrity sha512-6Wkko3d/hD5zrr8H4yVDs/HhenvvJA8bL/1pf8IZRqrG/AQyA4Y7Aikexpfzoda0nj0bD9EoVrG1Y1TOYqaipA==
-
-reactxp-imagesvg@^2.0.0-rc.1:
-  version "2.0.0-rc.1"
-  resolved "https://registry.yarnpkg.com/reactxp-imagesvg/-/reactxp-imagesvg-2.0.0-rc.1.tgz#1ad4fb7e641a023356165fbb1c8fdfcb36ac7d98"
-  integrity sha512-NejsnjQETSl8wXpVTHCNWRKm3NGgVMEcApgf+5iMRTxoG7+iQc8q5BXCoAgv2nlYtnjD+YiOQxVQKETspAh0dQ==
-  dependencies:
-    react-native-svg "^9.5.1"
 
 reactxp-navigation@^2.0.0-rc.1:
   version "2.0.0-rc.1"
